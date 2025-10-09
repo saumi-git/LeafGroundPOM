@@ -11,3 +11,5 @@ Uses Selenium WebDriver for browser automation
 - **TestNG** 
 - **IntelliJ IDEA** 
 - **Maven**
+
+  Clone the repository- git clone https://github.com/saumi-git/LeafGroundPOM.git
