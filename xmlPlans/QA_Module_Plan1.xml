@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="QA_Module_Plan1">
+    <test name="TC001_AlertTest">
+        <classes>
+            <class name="TestCases.TC001_AlertTest"></class>
+        </classes>
+    </test>
+    <test name="TC002_ButtonTest">
+        <classes>
+            <class name="TestCases.TC002_ButtonTest"></class>
+        </classes>
+    </test>
+    <test name="TC003_DropdownTest">
+        <classes>
+            <class name="TestCases.TC003_DropdownTest"></class>
+        </classes>
+    </test>
+    <test name="TC004_LinkTest">
+        <classes>
+            <class name="TestCases.TC004_LinkTest"></class>
+        </classes>
+    </test>
+    <test name="TC005_RadioAndCheckboxTest">
+        <classes>
+            <class name="TestCases.TC005_RadioAndCheckboxTest"></class>
+        </classes>
+    </test>
+</suite>
